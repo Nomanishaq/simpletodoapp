@@ -1,0 +1,29 @@
+.container{
+    margin: 0 auto;
+    /* padding: 0px; */
+}
+.form{
+    margin-top: 3em;
+    /* margin: 0 auto; */
+    width: 50em;
+}
+.error{
+    background: red;
+    color: #fff;
+    padding: 5px;
+    margin: 5px;
+}
+ul li{
+    margin-top: 1em;
+    padding: 15px;
+    background-color: black;
+    color: white;
+    border-radius: 5px;
+    list-style: none;
+}
+ul li button{
+    float: right;
+    color: black;
+    margin: 2px;
+
+}
